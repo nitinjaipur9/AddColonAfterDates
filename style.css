@@ -1,0 +1,14 @@
+/* #box {} */
+/* #txt {} */
+/* #output {} */
+/* #out {} */
+/* #btn {} */
+/* #preview {} */
+/* #edit {} */
+/* #submit {} */
+
+#main {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
